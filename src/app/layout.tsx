@@ -24,6 +24,9 @@ const nunito = Nunito({
 export const metadata: Metadata = {
   title: "QuestLog | Forge Your Legend",
   description: "A premium dark fantasy RPG productivity application to track your life's quests.",
+  icons: {
+    icon: "/icon.svg",
+  },
 };
 
 export default function RootLayout({
