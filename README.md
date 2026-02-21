@@ -15,7 +15,7 @@ Today, we transitioned from a skeletal mock-up to a living, breathing AI-powered
 ---
 
 ### 🧪 Digital Pair Programming
-Built in deep collaboration with **Antigravity AI**. This project wasn't "written"; it was *forged* in a real-time, iterative feedback loop between human intent and AI execution. We focused on **Vibe-Driven Development (VDD)**—where the feeling of the interface is as important as the logic of the code.
+Built in deep collaboration with **Github Copilot**. This project wasn't "written"; it was *forged* in a real-time, iterative feedback loop between human intent and AI execution. We focused on **Vibe-Driven Development (VDD)**—where the feeling of the interface is as important as the logic of the code.
 
 ---
 
